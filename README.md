@@ -4,6 +4,7 @@ The Philosophers project is an implementation of the classic Dining Philosophers
 
 
 ## Project Overview:
+
 ### Dining Philosophers Problem:
 
 The project revolves around solving the classical dining philosophers problem, a synchronization and concurrency problem.
